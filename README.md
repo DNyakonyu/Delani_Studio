@@ -15,7 +15,7 @@ The project is a web application for Delani_studio that illustrates types of the
 
 ## IP URL
 
-https://dnyakonyu.github.io/Delani_Studio
+https://DNyakonyu.github.io/Delani_Studio
 
 ### Technologies used
 
