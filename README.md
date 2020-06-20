@@ -43,7 +43,7 @@ https://DNyakonyu.github.io/Delani_Studio
 ## BDD
 | Inputs |  Description |
 | :---         |          ---: |
-| Name   | The users name. `eg Alvin Chipmunks`|
+| Name   | The user's name. `eg Alvin Chipmunks`|
 | Email     | The users email. ``eg anonymousmail@gmail.com``   |
 | Message    | User feedback message.   |
 
