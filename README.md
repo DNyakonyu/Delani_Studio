@@ -1,10 +1,10 @@
 ## Delani_Studio_Week3_IP
 
-### Author
+## Author
 
 DNyakonyu [https://github.com/DNyakonyu/Delani_Studio]
 
-### Description
+## Description
 
 The project is a web application for Delani_studio that illustrates types of the services offered, It also has information about the studio, a portfolio section and a form that allows users to send their messages and feedback to Delani studios.
 
@@ -17,7 +17,7 @@ The project is a web application for Delani_studio that illustrates types of the
 
 https://DNyakonyu.github.io/Delani_Studio
 
-### Technologies used
+## Technologies used
 
 ##### HTML
 ##### CSS
@@ -28,7 +28,8 @@ https://DNyakonyu.github.io/Delani_Studio
 
 
 
-### Set up Instructions
+
+## Set up Instructions
 
 
 - Clone this repository to a location in your file system. `git clone https://github.com/DNyakonyu/Delani_Studio`
@@ -36,7 +37,7 @@ https://DNyakonyu.github.io/Delani_Studio
 - Open `index.html` on your Browser.
 
 
-### Known errors
+## Known errors
 
  For some devices the application is not responding well - mail chimp API does not function properly.
 
