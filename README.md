@@ -40,15 +40,12 @@ https://DNyakonyu.github.io/Delani_Studio
 
  For some devices the application is not responding well - mail chimp API does not function properly.
 
-### BDD
-
-
-		Behaviour	Input	Output
-		Enter your name	Duncan Nyakonyu
-		Your email address plaese	duncanndirangu3@gmail.com
-		Your message or feedback	I would like to view your products
-		Press Enter button		Pop up "Duncan Nyakonyu , we have received your message. Thank you for reaching ou
-
+## BDD
+| Inputs |  Description |
+| :---         |          ---: |
+| Name   | The users name. `eg Alvin Chipmunks`|
+| Email     | The users email. ``eg anonymousmail@gmail.com``   |
+| Message    | User feedback message.   |
 
 ## License
 [MIT License](https://choosealicense.com/licenses/mit/) Copyright © 2020: Duncan Nyakonyu
