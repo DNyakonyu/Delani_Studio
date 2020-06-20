@@ -38,7 +38,7 @@ https://DNyakonyu.github.io/Delani_Studio
 - Open `index.html` on your Browser.
 
 
-## Known errors
+## Known anomaly
 
  For some devices the application is not responding well - mail chimp API does not function properly.
 
