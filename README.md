@@ -22,6 +22,7 @@ https://DNyakonyu.github.io/Delani_Studio
 ##### HTML
 ##### CSS
 ##### JS
+##### Jquery
 ##### Bootstrap &
 ##### markdown
 
