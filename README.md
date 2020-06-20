@@ -45,7 +45,7 @@ https://DNyakonyu.github.io/Delani_Studio
 | Inputs |  Description |
 | :---         |          ---: |
 | Name   | The user's name. `eg Alvin Chipmunks`|
-| Email     | The users email. ``eg anonymousmail@gmail.com``   |
+| Email     | The user's email. ``eg anonymousmail@gmail.com``   |
 | Message    | User feedback message.   |
 
 ## License
