@@ -33,7 +33,7 @@ https://DNyakonyu.github.io/Delani_Studio
 
 
 - Clone this repository to a location in your file system. `git clone https://github.com/DNyakonyu/Delani_Studio`
-- Open terminal command line then navigate to the root folder of the application. `cd Akan-Names`
+- Open terminal command line then navigate to the root folder of the application. `cd Delani_Studio`
 - Open `index.html` on your Browser.
 
 
