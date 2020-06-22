@@ -6,12 +6,12 @@ DNyakonyu https://github.com/DNyakonyu/Delani_Studio
 
 ## Description
 
-The project is a web application for Delani_studio that illustrates types of the services offered, It also has information about the studio, a portfolio section and a form that allows users to send their messages and feedback to Delani studios.
+The project is a web application for Delani_studio that illustrates types of the services offered, It also has information about the studio, a portfolio section and a form that allows users to send their messages and feedback to Delani studio.
 
 
 ## Screenshot
 
-![](https://github.com/DNyakonyu/Delani_Studio/blob/master/images/screenshot.jpg)
+![](https://github.com/DNyakonyu/Delani_Studio/images/screenshot.jpg)
 
 ## IP URL
 
