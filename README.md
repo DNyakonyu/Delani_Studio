@@ -11,7 +11,9 @@ The project is a web application for Delani_studio that illustrates types of the
 
 ## Screenshot
 
+
 ![](https://github.com/DNyakonyu/Delani_Studio/blob/master/images/screenshot.jpg)
+
 
 ## IP URL
 
